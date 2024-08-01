@@ -1,0 +1,16 @@
+######## start logging: 20240730_23.21.39
+Using home directory: profile/
+private/entropy.dat not found.
+writing to file: profile/clientlog.txt
+init: sdl (2.28.5)
+init: net (1.3.6)
+init: world (-(1302))
+init: video: sdl
+init: video: mode
+init: video: misc
+init: gl
+Renderer: NVIDIA GeForce GTX 1660 Ti/PCIe/SSE2 (NVIDIA Corporation)
+Driver: 4.6.0 NVIDIA 550.67
+couldn't load texture packages/misc/notexture.jpg
+could not find core textures (hint: run AssaultCube from the parent of the bin directory) (Couldn't open packages/misc/notexture.jpg)
+
